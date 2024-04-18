@@ -1,0 +1,45 @@
+.bg-nav
+{
+background: #2980b9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.heading_text
+{
+font-size: 80px;
+}
+
+.heading_div
+{
+margin-top: 80px;
+}
+
+.card_heading
+{
+    margin-top: 100px;
+    /* margin-right: 20px; */
+    margin-left: 20px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.member
+{
+    margin-top: 10px;
+}
+
+.card_dash
+{
+    margin-top: 100px;
+}
+
+.table_indent
+{
+    margin-top: 30px;
+    
+}
